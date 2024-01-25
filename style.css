@@ -1,5 +1,5 @@
 #titulo {
-    background-color: brown;
+    background-color: #663a7f;
     width: 100%;
     height: 150px;
     color: wheat;
@@ -10,5 +10,24 @@
 
 #menu {
     background-color: beige;
+    font-size: 30px;
+}
+
+.imagenInicio {
+    max-width: 90%;
+}
+
+.eslogan {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+}
+.imagenPrincipal {
+    max-width: 70%;
+    height: auto;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
 }
